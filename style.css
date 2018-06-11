@@ -50,3 +50,7 @@ h2 {
 .nav-link {
     color: rgb(177, 174, 174);
 }
+
+.bg-white {
+    background-color: #fff;
+}
