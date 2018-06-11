@@ -36,7 +36,7 @@ footer {
 }
 
 h2 {
-    color: rgb(112, 204, 204);
+    color: rgb(95, 180, 180);
 }
 
 .line {
@@ -47,6 +47,6 @@ h2 {
     padding-bottom: 80px;
 }
 
-.navbar-link {
-    color: lightgray;
+.nav-link {
+    color: rgb(177, 174, 174);
 }
