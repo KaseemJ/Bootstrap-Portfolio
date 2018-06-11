@@ -46,3 +46,7 @@ h2 {
 .para {
     padding-bottom: 80px;
 }
+
+.navbar-link {
+    color: lightgray;
+}
